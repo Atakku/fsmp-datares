@@ -15,12 +15,12 @@
       "type": "create:pressing",
       "ingredients": [
         {
-          "item": "railways:track_tieless_narrow"
+          "item": "railways:track_incomplete_phantom"
         }
       ],
       "results": [
         {
-          "item": "railways:track_tieless_narrow"
+          "item": "railways:track_incomplete_phantom"
         }
       ]
     },
@@ -28,12 +28,12 @@
       "type": "create:pressing",
       "ingredients": [
         {
-          "item": "railways:track_tieless_narrow"
+          "item": "railways:track_incomplete_phantom"
         }
       ],
       "results": [
         {
-          "item": "railways:track_tieless_narrow"
+          "item": "railways:track_incomplete_phantom"
         }
       ]
     },
@@ -41,12 +41,12 @@
       "type": "create:pressing",
       "ingredients": [
         {
-          "item": "railways:track_tieless_narrow"
+          "item": "railways:track_incomplete_phantom"
         }
       ],
       "results": [
         {
-          "item": "railways:track_tieless_narrow"
+          "item": "railways:track_incomplete_phantom"
         }
       ]
     },
@@ -54,12 +54,12 @@
       "type": "create:pressing",
       "ingredients": [
         {
-          "item": "railways:track_tieless_narrow"
+          "item": "railways:track_incomplete_phantom"
         }
       ],
       "results": [
         {
-          "item": "railways:track_tieless_narrow"
+          "item": "railways:track_incomplete_phantom"
         }
       ]
     },
@@ -67,12 +67,12 @@
       "type": "create:pressing",
       "ingredients": [
         {
-          "item": "railways:track_tieless_narrow"
+          "item": "railways:track_incomplete_phantom"
         }
       ],
       "results": [
         {
-          "item": "railways:track_tieless_narrow"
+          "item": "railways:track_incomplete_phantom"
         }
       ]
     }
