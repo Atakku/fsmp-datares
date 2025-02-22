@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "hexcasting:spellbook",
+    "hexcasting:artifact",
+    "create:blaze_burner",
+    "create:minecart_contraption",
+    "supplementaries:safe",
+    "estrogen:uwu",
+    "ae2:wireless_terminal",
+    "ae2:wireless_crafting_terminal",
+    "ae2wtlib:wireless_pattern_access_terminal",
+    "ae2wtlib:wireless_pattern_encoding_terminal",
+    "ae2wtlib:wireless_universal_terminal",
+    "ae2:singularity",
+    "ae2:quantum_entangled_singularity"
+  ]
+}
