@@ -13,7 +13,7 @@
           "type": "minecraft:mul",
           "argument1": 0.0001,
           "argument2": {
-            "type": "fsmp-worldgen:x_add_z"
+            "type": "fsmp_worldgen:x_add_z"
           }
         }
       }
