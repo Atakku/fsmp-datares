@@ -1,5 +1,6 @@
 {
   "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
   "pattern": [
     "SSSSS",
     " ~ ~ ",
@@ -39,7 +40,7 @@
     ]
   },
   "result": {
-    "item": "immersive_aircraft:airship"
-  },
-  "acceptMirrored": true
+    "count": 1,
+    "id": "immersive_aircraft:airship"
+  }
 }
