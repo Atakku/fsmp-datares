@@ -1,7 +1,7 @@
 {
   "ambient_light": 0.1,
   "bed_works": false,
-  "coordinate_scale": 1.0,
+  "coordinate_scale": 1.125,
   "effects": "minecraft:the_nether",
   "fixed_time": 18000,
   "has_ceiling": true,
@@ -9,7 +9,7 @@
   "has_skylight": false,
   "height": 256,
   "infiniburn": "#minecraft:infiniburn_nether",
-  "logical_height": 128,
+  "logical_height": 240,
   "min_y": 0,
   "monster_spawn_block_light_limit": 15,
   "monster_spawn_light_level": 7,
